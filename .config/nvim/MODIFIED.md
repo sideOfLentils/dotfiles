@@ -1,1 +1,1 @@
-Added nvim/plugins/colorscheme.lua
+Added nvim/plugins/colorscheme.lua from https://www.lazyvim.org/plugins/colorscheme
